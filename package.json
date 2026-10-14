@@ -1,6 +1,6 @@
 {
   "name": "agentic-meet",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Create Daily and Whereby video meeting rooms with a Node.js SDK, CLI, and Model Context Protocol server.",
   "keywords": [
     "daily",
