@@ -1,20 +1,17 @@
 {
   "name": "agentic-meet",
   "version": "0.1.2",
-  "description": "Create Daily and Whereby video meeting rooms with a Node.js SDK, CLI, and Model Context Protocol server.",
+  "description": "Create Daily or Whereby meeting rooms and return join links with a CLI, MCP server, or agent.",
   "keywords": [
     "daily",
     "whereby",
-    "video-meetings",
-    "meeting-rooms",
-    "join-links",
-    "nodejs",
-    "typescript",
+    "meeting",
+    "room",
+    "create",
     "cli",
     "mcp",
-    "model-context-protocol",
-    "ai-agents",
-    "dry-run"
+    "agent",
+    "video"
   ],
   "license": "MIT",
   "author": "Pooria Arab",
