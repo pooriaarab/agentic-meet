@@ -1,6 +1,6 @@
 {
   "name": "agentic-meet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create Daily or Whereby meeting rooms and return join links with a CLI, MCP server, or agent.",
   "keywords": [
     "daily",
